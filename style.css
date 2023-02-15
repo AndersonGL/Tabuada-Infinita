@@ -1,7 +1,4 @@
-html, body {
-  height: 100%;
-  width: 100%;
-}
+
 
 body{     /* corpo */
 
@@ -30,10 +27,14 @@ h1{
 section{         /* sessão  */
    
   background: #8fd68f;  /* fundo dentro da section */
-  border-radius: 10px;  /* borda arrendondada  */
-  padding: 67px;        /* abre a borda deixando maior*/
-  width:250px;         /* aumenta e diminui a borda e espaço */
-  margin: auto;         /* trouxe a borda para o centro */
+  border-radius: 15px;  /* borda arrendondada  */
+  padding: 40px;        /* abre a borda deixando maior*/
+  width:220px;  
+  margin:10px 20px;
+ display: block;
+       /* aumenta e diminui a borda e emarginauataom
+  margin
+  arginauata;    /* trouxe a borda para o centro */
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.301);  /* sombra da borda */
   text-align: center;
 
